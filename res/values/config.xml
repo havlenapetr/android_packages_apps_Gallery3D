@@ -16,6 +16,6 @@
 
 <resources>
 
-    <bool name="reload_on_orientation_change">false</bool>
+    <bool name="reload_on_orientation_change">true</bool>
 
 </resources>
